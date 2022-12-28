@@ -8,7 +8,7 @@
 
 # 🛠 Tech Stack
 
-🌐   HTML | CSS | JavaScript | React in process <br/>
+🖱️   HTML | CSS | JavaScript | React in process <br/>
 💻   Java | SQL <br/>
 ⚙️   Github 
 
