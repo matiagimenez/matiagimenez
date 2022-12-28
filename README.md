@@ -14,5 +14,5 @@
 
 # Contact Me 📪
 
-📧 matiasgimenez.dev@gmail.com
+📧 matiasgimenez.dev@gmail.com <br/>
 👔 https://www.linkedin.com/in/matiasgimenezdev/
