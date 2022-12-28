@@ -6,15 +6,16 @@
 - ⚡ I´m currently learning React ⚛️
 - I 🧡 Web
 
-# 🛠 Tech Stack
+**"Living, learning & leveling up one day at a time" 💡 **
+
+## 🛠 Tech Stack
 
 🖱️   HTML | CSS | JavaScript | React in process <br/>
 💻   Java | SQL <br/>
 ⚙️   Github 
 
-# Contact Me 📪
+### Contact Me 📪
 
 📧 matiasgimenez.dev@gmail.com <br/>
 👔 https://www.linkedin.com/in/matiasgimenezdev/
 
-"Living, learning & leveling up one day at a time" 💡 
