@@ -6,7 +6,7 @@
 - ⚡ I´m currently learning React ⚛️
 - I 🧡 Web
 
-**"Living, learning & leveling up one day at a time" 💡 **
+***"Living, learning & leveling up one day at a time" 💡***
 
 ## 🛠 Tech Stack
 
