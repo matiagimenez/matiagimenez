@@ -8,6 +8,6 @@
 
 🛠 Tech Stack
 
-🌐   HTML | CSS | JavaScript | React in process 
-💻   Java | SQL
-⚙️   Github
+🌐   HTML | CSS | JavaScript | React in process <br/>
+💻   Java | SQL <br/>
+⚙️   Github 
