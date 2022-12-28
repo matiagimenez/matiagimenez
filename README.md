@@ -1,4 +1,4 @@
-# ### Hi I´m Matias 👋🏽
+# Hi I´m Matias 👋🏽
 
 - 🔭 I’m doing an university degree in Argentina
 - 🌱 I love exploring new technologies and learning them.
