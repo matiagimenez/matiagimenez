@@ -12,13 +12,9 @@
 💻   Java | SQL <br/>
 ⚙️   Github 
 
-Living, <br/>
-learning <br/>
-& <br/>
-leveling up one day at a time. <br/>
-
 # Contact Me 📪
 
 📧 matiasgimenez.dev@gmail.com <br/>
 👔 https://www.linkedin.com/in/matiasgimenezdev/
 
+"Living, learning & leveling up one day at a time" 💡 
