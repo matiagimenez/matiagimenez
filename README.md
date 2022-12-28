@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I´m Matias 👋🏽
 
-<!--
-**matiasgimenezdev/matiasgimenezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m doing an university degree in Argentina
+- 🌱 I love exploring new technologies and learning them.
+- ⌨️ I have knowledge in software development
+- ⚡ I´m currently learning React ⚛️
+- I 🧡 Web
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐   HTML | CSS | JavaScript | React in process 
+💻   Java | SQL
+⚙️   Github
