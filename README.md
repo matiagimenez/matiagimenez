@@ -11,3 +11,8 @@
 🌐   HTML | CSS | JavaScript | React in process <br/>
 💻   Java | SQL <br/>
 ⚙️   Github 
+
+# Contact Me 📪
+
+📧 matiasgimenez.dev@gmail.com
+👔 https://www.linkedin.com/in/matiasgimenezdev/
