@@ -6,7 +6,7 @@
 - ⚡ I´m currently learning React ⚛️
 - I 🧡 Web
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 🌐   HTML | CSS | JavaScript | React in process <br/>
 💻   Java | SQL <br/>
