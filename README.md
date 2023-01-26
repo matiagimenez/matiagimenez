@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 
-🖱️   HTML | CSS | JavaScript | React in progress <img width='300px' height='70px' src='https://media.tenor.com/aG9ReMwhcaQAAAAC/loading-complete.gif'> </img> <br/>
+🖱️   HTML | CSS | JavaScript | React in progress <img width='300px' height='50px' src='https://i.gifer.com/origin/af/af9e76d0b5653bb836b478319fa9dcc2_w200.gif'> </img> <br/>
 💻   Java | SQL <br/>
 ⚙️   Github 
 
