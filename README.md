@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 
-🖱️   HTML | CSS | JavaScript | React in progress <img width='20px' height='20px' src='https://media.tenor.com/UnFx-k_lSckAAAAM/amalie-steiness.gif'> </img> <br/>
+🖱️   HTML | CSS | JavaScript | React in progress <img width='120px' height='30px' src='https://media.tenor.com/aG9ReMwhcaQAAAAC/loading-complete.gif'> </img> <br/>
 💻   Java | SQL <br/>
 ⚙️   Github 
 
