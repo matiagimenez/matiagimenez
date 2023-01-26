@@ -1,6 +1,6 @@
 # Hi I´m Matias 👋🏽
 
-- 🔭 I’m doing an university degree in Argentina
+- ---mmm doing an university degree in Argentina
 - 🌱 I love exploring new technologies and learning them.
 - ⌨️ I have knowledge in software development
 - ⚡ I´m currently learning React ⚛️
@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 
-🖱️   HTML | CSS | JavaScript | React in progress  ■■■■■■■■■□□□□□ LOADING<br/>
+🖱️   HTML | CSS | JavaScript | React in progress   ████▒▒▒▒<br/>
 💻   Java | SQL <br/>
 ⚙️   Github 
 
