@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 
-🖱️   HTML | CSS | JavaScript | React in progress   ████▒▒▒▒<br/>
+🖱️   HTML | CSS | JavaScript | React in progress https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif?20151024034921   ████▒▒▒▒<br/>
 💻   Java | SQL <br/>
 ⚙️   Github 
 
