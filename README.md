@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 
-🖱️   HTML | CSS | JavaScript | React in progress ████▒▒▒▒▒ <br/>
+🖱️   HTML | CSS | JavaScript | React in progress  ■■■■■■■■■□□□□□ LOADING<br/>
 💻   Java | SQL <br/>
 ⚙️   Github 
 
