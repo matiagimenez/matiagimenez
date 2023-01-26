@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 
-🖱️   HTML | CSS | JavaScript | React in progress <img width='300px' height='50px' src='https://i.gifer.com/origin/af/af9e76d0b5653bb836b478319fa9dcc2_w200.gif'> </img> <br/>
+🖱️   HTML | CSS | JavaScript | React in progress <img width='100px' height='30px' src='https://i.pinimg.com/originals/65/ba/48/65ba488626025cff82f091336fbf94bb.gif'> </img> <br/>
 💻   Java | SQL <br/>
 ⚙️   Github 
 
