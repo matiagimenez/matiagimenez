@@ -19,6 +19,6 @@
 ### Contact Me 📪
 
 📧 matiasgimenez.dev@gmail.com <br/>
-👔 linkedin.com/in/matiasgimenezdev/ <br/>
+👔 <a href="linkedin.com/in/matiasgimenezdev/"> <br/>
 🌐 matiasgimenez.vercel.app/
 
