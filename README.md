@@ -12,13 +12,12 @@
 
 🖱️   HTML | CSS | JavaScript | React in progress ⌛ <br/>
 💻   Java | SQL <br/>
-⚙️   Github 
+⚙️   GIT 
 
 <img width='300px' height='300px' src='https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif'> </img>
 
 ### Contact Me 📪
 
-📧 matiasgimenez.dev@gmail.com <br/>
 👔 https://linkedin.com/in/matiasgimenezdev/ <br/>
 🌐 https://matiasgimenez.vercel.app/
 
