@@ -19,9 +19,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiasgimenezdev)  <br/>
 🌐 https://matiasgimenez.vercel.app/
-[![](https://visitcount.itsvg.in/api?id=matiasgimenezdev&icon=3&color=0)](https://visitcount.itsvg.in)
-
-
 
 
 ### ✍️ Random Dev Quote
