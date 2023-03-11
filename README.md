@@ -4,7 +4,7 @@
 - 🌱 I love exploring new technologies and learning them. <br>
 - ⌨️ I have knowledge in software development. <br>
 - ⚡ I´m currently learning React ⚛️ <br> 
--  I 🧡 Web. <br>
+- 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ## 🛠 Tech Stack
