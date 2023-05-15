@@ -9,7 +9,7 @@
 <img align="left" alt="Matias Gimenez - LinkedIn" width="24px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=5095F0" style="margin-right: 20px;" />
 </a>
 <a href="https://hub.docker.com/u/mgimenezdev">
-<img align="left" alt="Matias Gimenez - Docker Hub" width="24px" src="https://fontawesome.com/icons/docker?f=brands&s=solid&pc=%2300ccff" style="margin-right: 20px;" />
+<img align="left" alt="Matias Gimenez - Docker Hub" width="24px" src="https://icongr.am/simple/docker.svg?size=128&color=04f1ed&colored=false" style="margin-right: 20px;" />
 </a>
 
 #### ✍️ Random Dev Quote
