@@ -6,7 +6,6 @@
 
 ### 🌐 Socials
 <p>
-
 <a href="https://www.linkedin.com/in/matiasgimenezdev">
 <img align="left" alt="Matias Gimenez - LinkedIn" width="24px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=5095F0" style="margin-right: 20px;" />
 </a>
@@ -17,7 +16,8 @@
 
 
 #### ✍️ Random Dev Quote
+<p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+</p>
 
 
