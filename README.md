@@ -1,5 +1,5 @@
 # Hi I´m Matias 👋🏽
-📚 I am doing an university degree in Argentina.<br>🌱 I love exploring new technologies and learning them.<br>⌨️ I have knowledge in software development.<br>⚡ Currently learning React & Typescript
+📚 I am doing an university degree in Argentina.<br>🌱 I love exploring new technologies and learning them.<br>⌨️ I have knowledge in software development.<br>⚡Learning React & Typescript
 
 <p>
 <a href="https://www.linkedin.com/in/matiasgimenezdev">
