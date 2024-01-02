@@ -29,7 +29,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![matiasgimenezdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasgimenezdev&show_icons=true&theme=radical)
+![matiasgimenezdev's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=matiasgimenezdev&show_icons=true&theme=radical)
 
 ## Contact me
 <p>
