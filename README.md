@@ -29,7 +29,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Contact me
+## 📧 Contact me
 <p>
 <a href="https://www.linkedin.com/in/matiasgimenezdev">
 <img align="left" alt="Matias Gimenez - LinkedIn" width="36px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=5095F0" style="margin-right: 20px; margin-bottom: 20px;" />
