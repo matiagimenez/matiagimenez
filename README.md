@@ -1,5 +1,5 @@
 # Hi I´m Matias 👋🏽
-❤️ Web development.<br> 📚 I am doing a university degree in Argentina.<br>🌱 I love exploring new technologies and learning them.
+❤️ Web development.<br> 📚 I am doing a university degree in Argentina.<br>🌱 I love exploring new technologies.
 
 ## 💻 Tech stack
 
