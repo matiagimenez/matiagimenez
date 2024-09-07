@@ -24,7 +24,7 @@
 
 ## Contact me
 <p>
-<a href="https://www.linkedin.com/in/matiasgimenezdev">
+<a href="https://www.linkedin.com/in/matiagimenez">
 <img align="left" alt="Matias Gimenez - LinkedIn" width="36px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=5095F0" style="margin-right: 20px; margin-bottom: 20px;" />
 </a>
 </p>
