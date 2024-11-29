@@ -1,6 +1,10 @@
 # Hi I´m Matias 👋🏽
 
-❤️ Web development.<br> 📚 I am doing a university degree in Argentina.
+-   💼 &nbsp; Full-stack developer at Pwc Argentina.
+-   🎓 &nbsp; I am doing an information systems degree.
+-   📚 &nbsp; I love explore new technologies.
+
+You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
 
 ## 💻 Tech stack
 
