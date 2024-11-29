@@ -38,7 +38,7 @@ From: 27 November 2024 - To: 29 November 2024
 
 Total Time: 20 mins
 
-Python   20 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Python   20 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
