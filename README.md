@@ -6,16 +6,10 @@
 
 You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
 
-<table>
-  <tr>
-    <td>
-      <img src='https://github-readme-stats.vercel.app/api?username=matiagimenez&show_icons=true&theme=tokyonight&border_radius=5&include_all_commits=true&count_private=true&card_width=450&hide_border=true' alt="Matias Gimenez Github stats">
-    </td>
-    <td>
-      <img src='https://github-readme-streak-stats.herokuapp.com/?user=matiagimenez&theme=tokyonight&border_radius=5&include_all_commits=true&count_private=true&card_width=450&hide_border=true' alt="Matias Gimenez Github streak stats">
-    </td>
-  </tr>
-</table>
+<p>
+    <img src='https://github-readme-stats.vercel.app/api?username=matiagimenez&show_icons=true&theme=tokyonight&border_radius=5&include_all_commits=true&count_private=true&card_width=450&hide_border=true' alt="Matias Gimenez Github stats">
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=matiagimenez&theme=tokyonight&border_radius=5&include_all_commits=true&count_private=true&card_width=450&hide_border=true' alt="Matias Gimenez Github streak stats">
+</p>
 
 ## Tech stack
 
