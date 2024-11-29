@@ -28,8 +28,6 @@ You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=matiagimenez&theme=tokyonight&border_radius=5&include_all_commits=true&count_private=true&card_width=450&hide_border=true' alt="Matias Gimenez top languages">
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -48,4 +46,3 @@ Python   20 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 <br/>
 
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=matiagimenez&theme=tokyonight&border_radius=5&include_all_commits=true&count_private=true&card_width=450&hide_border=true' alt="Matias Gimenez Github streak stats">
-<br/>
