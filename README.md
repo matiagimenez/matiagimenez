@@ -23,15 +23,6 @@ You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 27 November 2024 - To: 29 November 2024
-
-Total Time: 20 mins
-
-Python   20 mins         █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 ## Connect with me
