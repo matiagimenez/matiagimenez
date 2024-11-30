@@ -3,7 +3,7 @@ name: Waka Readme
 on:
     workflow_dispatch:
     schedule:
-        - cron: '0 0 * * *'
+        - cron: '0 0 * * *' # runs at 12 AM UTC
 
 jobs:
     update-readme:
@@ -20,3 +20,6 @@ jobs:
                   SHOW_TIME: true
                   SHOW_MASKED_TIME: true
                   LANG_COUNT: 5
+                  SHOW_TOTAL: true
+                  IGNORED_LANGUAGES: JSON Markdown
+                  COMMIT_MESSAGE: Updated waka-readme graph with new metrics
