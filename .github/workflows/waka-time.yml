@@ -21,5 +21,5 @@ jobs:
                   SHOW_MASKED_TIME: true
                   LANG_COUNT: 5
                   SHOW_TOTAL: true
-                  IGNORED_LANGUAGES: JSON Markdown
+                  IGNORED_LANGUAGES: JSON Markdown TOML
                   COMMIT_MESSAGE: Updated waka-readme graph with new metrics
