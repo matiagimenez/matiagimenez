@@ -23,17 +23,6 @@ You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 27 November 2024 - To: 30 November 2024
-
-Total Time: 5 hrs 8 mins
-
-Python       1 hr 50 mins    >>>>>>>>>================   35.93 %
-TypeScript   1 hr 48 mins    >>>>>>>>>================   35.09 %
-YAML         10 mins         >========================   03.25 %
-```
-
 <!--END_SECTION:waka-->
 
 ## Connect with me
