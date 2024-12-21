@@ -1,6 +1,6 @@
 # Hi I´m Matias 👋🏽
 
--   💼 &nbsp; Full-stack developer at Pwc Argentina.
+-   💼 &nbsp; Software developer at Pwc Argentina.
 -   🎓 &nbsp; I am doing an information systems degree.
 -   📚 &nbsp; I love exploring new technologies.
 
