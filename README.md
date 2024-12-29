@@ -25,7 +25,7 @@ You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2024 - To: 26 December 2024
+From: 27 November 2024 - To: 27 December 2024
 
 Total Time: 79 hrs 11 mins
 
