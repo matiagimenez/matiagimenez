@@ -1,8 +1,9 @@
 # Hi I´m Matias 👋🏽
 
+-   🌎 &nbsp; Born and living in Argentina.
 -   💼 &nbsp; Software developer at Pwc Argentina.
--   🎓 &nbsp; I am doing an information systems degree.
--   📚 &nbsp; I love exploring new technologies.
+-   🎓 &nbsp; Pursuing a Degree in Information Systems - Graduated as a Programmer analyst.
+-   📚 &nbsp; Passionate about exploring new technologies and continuous learning.
 
 You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
 
