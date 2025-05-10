@@ -10,18 +10,9 @@ You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
 <img src='https://github-readme-stats.vercel.app/api?username=matiagimenez&show_icons=true&theme=tokyonight&border_radius=5&include_all_commits=true&count_private=true&card_width=400&hide_border=true' alt="Matias Gimenez Github stats">
 
 ## Tech stack
-
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
-<br/>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-<br/>
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react)](https://skillicons.dev) <br/>
+[![Backend](https://skillicons.dev/icons?i=python,fastapi,nodejs,mongodb,postgres,sqlite,redis)](https://skillicons.dev) <br/>
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,githubactions)](https://skillicons.dev) <br/>
 
 <!--START_SECTION:waka-->
 
