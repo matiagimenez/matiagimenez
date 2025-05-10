@@ -1,7 +1,7 @@
 # Hi I´m Matias 👋🏽
 
 -   🌎 &nbsp; Born and living in Argentina.
--   💼 &nbsp; Software developer at Pwc Argentina.
+-   💼 &nbsp; Software developer at PwC.
 -   🎓 &nbsp; Pursuing a Degree in Information Systems - Graduated as a Programmer analyst.
 -   📚 &nbsp; Passionate about exploring new technologies and continuous learning.
 
