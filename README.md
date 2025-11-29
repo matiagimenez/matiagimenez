@@ -10,7 +10,7 @@ You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
 ## Tech stack
 [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react)](https://skillicons.dev) <br/>
 [![Backend](https://skillicons.dev/icons?i=python,fastapi,nodejs,mongodb,postgres,sqlite,redis)](https://skillicons.dev) <br/>
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,githubactions)](https://skillicons.dev) <br/>
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,git,github,azure)](https://skillicons.dev) <br/>
 
 <!--START_SECTION:waka-->
 
