@@ -7,8 +7,6 @@
 
 You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
 
-<img src='https://github-readme-stats.vercel.app/api?username=matiagimenez&show_icons=true&theme=tokyonight&border_radius=5&include_all_commits=true&count_private=true&card_width=400&hide_border=true' alt="Matias Gimenez Github stats">
-
 ## Tech stack
 [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react)](https://skillicons.dev) <br/>
 [![Backend](https://skillicons.dev/icons?i=python,fastapi,nodejs,mongodb,postgres,sqlite,redis)](https://skillicons.dev) <br/>
