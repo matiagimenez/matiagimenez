@@ -1,9 +1,9 @@
 # Hi I´m Matias 👋🏽
 
 -   🌎 &nbsp; Born and living in Argentina.
--   💼 &nbsp; Software developer at PwC.
--   🎓 &nbsp; Pursuing a Degree in Information Systems - Graduated as a Programmer analyst.
--   📚 &nbsp; Passionate about exploring new technologies and continuous learning.
+-   💼 &nbsp; Backend developer at PwC.
+-   🎓 &nbsp; Pursuing a bachelor's degree in artificial intelligence - Graduated as a Programmer analyst.
+-   😄 &nbsp; Exploring AI (and being polite to them, just in case).
 
 You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
 
