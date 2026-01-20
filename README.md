@@ -1,16 +1,11 @@
-# Hi I´m Matias 👋🏽
+# Hi I´m Matias
 
--   🌎 &nbsp; Born and living in Argentina.
--   💼 &nbsp; Backend developer at PwC.
--   🎓 &nbsp; Pursuing a bachelor's degree in artificial intelligence - Graduated as a Programmer analyst.
--   😄 &nbsp; Exploring AI (and being polite to them, just in case).
+-   Born and living in Argentina.
+-   Pursuing a bachelor's degree in artificial intelligence - Graduated as a Programmer analyst.
+-   Python, mostly.
+-   Exploring AI (and being polite to them, just in case).
 
 You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
-
-## Tech stack
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react)](https://skillicons.dev) <br/>
-[![Backend](https://skillicons.dev/icons?i=python,fastapi,nodejs,mongodb,postgres,sqlite,redis)](https://skillicons.dev) <br/>
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,git,github,azure)](https://skillicons.dev) <br/>
 
 <!--START_SECTION:waka-->
 
@@ -37,6 +32,5 @@ Astro         30 mins         =========================   00.14 %
 
 <p>
 <a href="https://www.linkedin.com/in/matiagimenez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.github.com/matiagimenez"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/m4tias"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
+<a href="https://www.github.com/justmatias"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
