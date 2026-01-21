@@ -10,18 +10,18 @@ You can check my portfolio <a href="https://matiasgimenez.vercel.app/">here</a>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2024 - To: 18 January 2026
+From: 27 November 2024 - To: 19 January 2026
 
-Total Time: 360 hrs 34 mins
+Total Time: 362 hrs 18 mins
 
-Python        287 hrs 38 mins >>>>>>>>>>>>>>>>>>>>=====   79.77 %
-YAML          18 hrs 9 mins   >========================   05.03 %
-TOML          14 hrs 53 mins  >========================   04.13 %
-Markdown      10 hrs 28 mins  >========================   02.90 %
-Bash          8 hrs 59 mins   >========================   02.50 %
-Other         7 hrs 40 mins   >========================   02.13 %
-JSON          6 hrs 22 mins   =========================   01.77 %
-TypeScript    3 hrs 9 mins    =========================   00.88 %
+Python        288 hrs 34 mins >>>>>>>>>>>>>>>>>>>>=====   79.65 %
+YAML          18 hrs 9 mins   >========================   05.01 %
+TOML          14 hrs 57 mins  >========================   04.13 %
+Markdown      11 hrs 1 min    >========================   03.04 %
+Bash          9 hrs 7 mins    >========================   02.52 %
+Other         7 hrs 42 mins   >========================   02.13 %
+JSON          6 hrs 22 mins   =========================   01.76 %
+TypeScript    3 hrs 9 mins    =========================   00.87 %
 Docker        1 hr 9 mins     =========================   00.32 %
 Astro         30 mins         =========================   00.14 %
 ```
